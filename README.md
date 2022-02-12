@@ -6,8 +6,8 @@ My Current Stack :
     <li>HTML, CSS, ReactJS, VanillaJS, TailwindCSS & Bootstrap5 <b>[Front-end]</b></li>
     <li>PHP, Laravel, ExpressJS <b>[Back-end]</b></li>
   </ul>
-  </br>
+ 
   <div style="padding:5px;"><a href="https://twitter.com/_realao">Twitter</a></div>
-
+ </br>
 <font color="red">I recently uploaded my older PHP projects here too.</font>
 </div>
