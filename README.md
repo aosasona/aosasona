@@ -9,5 +9,5 @@ My Current Stack :
  
   <div style="padding:5px;"><a href="https://twitter.com/_realao">Twitter</a></div>
  </br>
-<font color="red">I recently uploaded my older PHP projects here too.</font>
+<font color="red">I recently uploaded my older PHP projects here too and some of my repositories are private too 🥲.</font>
 </div>
