@@ -6,7 +6,7 @@ My Current Stack :
     <li>HTML - CSS [TailwindCSS, Bootstrap5] - PHP [Laravel] - JS [VanillaJS, ReactJS, NextJS, ExpressJS] - PYTHON [Flask] - React Native</li>
   </ul>
  
-  <div style="padding:5px;"><a href="https://twitter.com/_realao">Twitter</a></div>
+  <div><a href="https://twitter.com/_realao">Twitter</a></div>
  </br>
 <font color="red">I recently uploaded my older PHP projects here too and some of my repositories are private too 🥲.</font>
 </div>
