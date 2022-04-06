@@ -3,10 +3,16 @@
   <div style="color:white;background:#151515;font-weight:300;padding:5px;border-radius:10px;border:2px solid #191919;">Full-stack Web (& Mobile) Developer</div>
 My Current Stack : 
   <ul>
-    <li>HTML - CSS [TailwindCSS, Bootstrap5] - PHP [Laravel] - JS [VanillaJS, ReactJS, NextJS, ExpressJS] - PYTHON [Flask] - React Native</li>
+    <li>HTML - CSS [TailwindCSS, Bootstrap5]</li>
+    <li>PHP [Laravel]</li>
+    <li>JS [VanillaJS, ReactJS, NextJS, ExpressJS]</li>
+    <li>PYTHON [Flask]</li>
+    <li>React Native</li>
   </ul>
  
   <div><a href="https://twitter.com/_realao">Twitter</a></div>
+  <div><a href="https://frikax.net">Something cool</a></div>
+  <div><a href="https://noxis.chat">Something fun</a></div>
  </br>
-<font color="red">I recently uploaded my older PHP projects here too and some of my repositories are private too 🥲.</font>
+<font color="red">I recently uploaded my older PHP projects here too and some of my repositories are private too 🙂.</font>
 </div>
